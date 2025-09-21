@@ -2,8 +2,7 @@
   <img src="https://github.com/jaykuroor/jaykuroor/blob/8191dc1f7aed3bc905110886adaa0676be89dac2/main/banner.gif" alt="Banner">
 </p>
 
-```
-
+```diff
 ████████████████████████████████████████████████████████████████████████████████
 █ ██  ●   ○   □                                                             ██ █
 █ ██                           VINTAGE TERMINAL                             ██ █
@@ -11,7 +10,7 @@
 █  File    Edit    View    Search    Terminal    Help                          █
 ████████████████████████████████████████████████████████████████████████████████
 █                                                                              █
-█  \[kuroor\@profile-git:\~\$] cat profile\_card                               █
+█  \[kuroor\@profile-git:\~\$] cat profile\_card    	$${\color{red}Red}$$     █
 █                                                                              █
 █   ╔══════════════════════════════════════════════════════════════════════╗   █
 █   ║  Name: Jay Kuroor                                                    ║   █
@@ -46,9 +45,9 @@
 █                                                                              █
 █   ╔══════════════════════════════════════════════════════════════════════╗   █
 █   ║  Languages:                                                          ║   █
-█   ║   <code><img title="Python" height="25" src="images/python.svg"></code>║ █
-█   ║   <code><img title="JavaScript" height="25" src="images/js.svg"></code>║ █
-█   ║   <code><img title="TypeScript" height="25" src="images/ts.svg"></code>║ █
+█   ║ <code><img title="Python" height="25" src="images/python.svg"></code>║   █
+█   ║ <code><img title="JavaScript" height="25" src="images/js.svg"></code>║   █
+█   ║ <code><img title="TypeScript" height="25" src="images/ts.svg"></code>║   █
 █   ║                                                                      ║   █
 █   ║  ML/AI Stack:                                                        ║   █
 █   ║   NumPy | Pandas | PyTorch | TensorFlow | scikit-learn | LangChain   ║   █
