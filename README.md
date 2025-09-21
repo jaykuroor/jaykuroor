@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jaykuroor/jaykuroor/main/banner.gif" alt="Banner">
-</p>
+![Banner](https://github.com/jaykuroor/jaykuroor/blob/main/banner.gif?raw=true)
 
 <div align="center">
 <details open>
 <summary>
   <div align="center">
-    <code><b>┌───(profile-shell)──────────────────────────────────────────────────────────────────────────────────────────────────( - □ x )─┐</b></code>
+    <code><b>┌───(profile-shell)─────────────────────────────────────────────────────────────────────────────────────────────────[ - □ x ]─┐</b></code>
   </div>
 </summary>
 
