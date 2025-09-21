@@ -2,6 +2,9 @@
   <img src="https://github.com/jaykuroor/jaykuroor/blob/8191dc1f7aed3bc905110886adaa0676be89dac2/main/banner.gif" alt="Banner">
 </p>
 
+<script src="main/scripts/termynal.js" data-termynal-container="#termynal"></script>
+<link rel="stylesheet" href="termynal.css">
+
 ```bash
 ┌──────────────────────────────────────────────────────────┐
 │  host          • command terminal                        │
