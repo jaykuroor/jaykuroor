@@ -1,4 +1,4 @@
-![Banner](https://github.com/jaykuroor/jaykuroor/blob/main/banner.gif?raw=true)
+![Banner](https://github.com/jaykuroor/jaykuroor/main/banner.gif)
 
 <div align="center">
 <details open>
