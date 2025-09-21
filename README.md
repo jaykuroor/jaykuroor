@@ -2,6 +2,20 @@
   <img src="https://github.com/jaykuroor/jaykuroor/blob/8191dc1f7aed3bc905110886adaa0676be89dac2/main/banner.gif" alt="Banner">
 </p>
 
+```bash
+┌──────────────────────────────────────────────────────────┐
+│  host          • command terminal                        │
+└──────────────────────────────────────────────────────────┘
+jay@host ~/demo $ help
+Available commands:
+  help, ls, cd, cat, echo, pwd, date, whoami, clear, history, exit
+
+jay@host ~/demo $ ls
+profile profile.c
+
+jay@host ~/demo $ profile start
+```
+
 ```diff
 ████████████████████████████████████████████████████████████████████████████████
 █ ██  ●   ○   □                                                             ██ █
