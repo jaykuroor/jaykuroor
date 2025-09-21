@@ -1,4 +1,7 @@
-![Banner](https://github.com/jaykuroor/jaykuroor/main/banner.gif)
+<p align="center">
+  <img src="https://github.com/jaykuroor/jaykuroor/blob/8191dc1f7aed3bc905110886adaa0676be89dac2/main/banner.gif?raw=true" alt="Banner">
+</p>
+
 
 <div align="center">
 <details open>
