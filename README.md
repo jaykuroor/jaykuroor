@@ -1,88 +1,101 @@
-<!--################################################################################README v3.0 - Final version using HTML tables for a robust layout.This should render correctly on GitHub now.- Jay Kuroor################################################################################--><!-- Banner --><p align="center"><img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggACpCjoMAgT37/giphy.gif" width="600" alt="Retro Computer Banner"/></p><!-- Terminal Start --><div style="font-family: 'Courier New', Courier, monospace; background-color: #f6f8fa; border: 1px solid #d1d5da; border-radius: 6px; padding: 16px;"><p># Booting JAY-DOS v1.0...</p><p># System Check: OK</p><p># Loading user profile...</p><br><table><!-- Profile Card Section --><tr><td valign="top" style="color: #2765c7; white-space: nowrap;"><samp>[kuroor@git-profile]:~$</samp></td><td><samp><b>profile --card</b></samp><pre style="background-color: #f6f8fa; border: none; padding: 0; margin: 0; font-family: 'Courier New', Courier, monospace;">#################################################################Jay Kuroor📧 jkr@wisc.edu | jaykuroor@outlook.com🎓 Junior @ University of Wisconsin MadisonB.S. Computer Science & Economics (Expected May 2027)💼 Prev: Agentic AI Intern @ Travancore Analytics🧠 Interests: ML/LLM/AI, Agentic Systems, ContextManagement, Deep Learning, and Research."Never stop learning"#################################################################</pre></td></tr><!-- Experience Section -->
-<tr>
-  <td valign="top" style="color: #2765c7; white-space: nowrap;"><samp>[kuroor@git-profile]:~$</samp></td>
-  <td><samp><b>profile --experience</b></samp>
-    <p><b>Agentic AI Intern</b> @ <b>Travancore Analytics</b><br>
-    - Architected a multi-agent AI system for our 'Intervai' application, revolutionizing interview prep.<br>
-    - Leveraged LangGraph, Tavily, and Groq to automate question generation and provide context-aware user feedback.<br>
-    - Achieved a <b>40% reduction</b> in manual data synthesis, significantly enhancing personalization and efficiency.</p>
-  </td>
-</tr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaykuroor/jaykuroor/main/banner.gif" alt="Banner">
+</p>
 
-<!-- Projects Section -->
-<tr>
-  <td valign="top" style="color: #2765c7; white-space: nowrap;"><samp>[kuroor@git-profile]:~$</samp></td>
-  <td><samp><b>profile --projects</b></samp>
-    <p><b>1. Nodular [BEING BUILT 🏗️]</b><br>
-    <em>What if running complex LLMs was as intuitive as snapping LEGO bricks together? Nodular is a visual framework to parallelize and orchestrate large language models, making sophisticated AI pipelines accessible to everyone.</em></p>
-    <p><b>2. Intervai</b><br>
-    <em>A smart interview preparation platform powered by an agentic AI system. Intervai simulates real interview scenarios, asks dynamic questions, and provides instant, actionable feedback to help you land your dream job.</em></p>
-    <p><b>3. Photorch [UNDER WORK 🚧]</b><br>
-    <em>A teaching-sized, tiny, and readable autograd + training micro-framework built from scratch. `photorch` is designed to demystify deep learning for physics research and education.</em></p>
-  </td>
-</tr>
+<pre>
+############################################################################################
+##                                                                                        ##
+##  <img src="https://raw.githubusercontent.com/jaykuroor/jaykuroor/main/pfp.gif" width="100" align="left" />              <b>Jay Kuroor</b>                                                         ##
+##                                                                                        ##
+##  <a href="mailto:jkr@wisc.edu">jkr@wisc.edu</a> | <a href="mailto:jaykuroor@outlook.com">jaykuroor@outlook.com</a>                                          ##
+##  UW-Madison '27 | CS & Econ                                                             ##
+##  Prev @ Travancore Analytics                                                            ##
+##                                                                                        ##
+##  "Never stop learning"                                                                  ##
+##                                                                                        ##
+############################################################################################
+</pre>
 
-<!-- Tech Section -->
-<tr>
-    <td valign="top" style="color: #2765c7; white-space: nowrap;"><samp>[kuroor@git-profile]:~$</samp></td>
-    <td><samp><b>profile --tech</b></samp>
-        <div>
-            <p><b>Languages:</b></p>
-            <p>
-                <img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-                <img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-                <img title="TypeScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-                <img title="SQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg">
-            </p>
-            <p><b>AI / ML / Data Science:</b></p>
-            <p>
-                <img title="PyTorch" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-                <img title="TensorFlow" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-                <img title="Scikit-learn" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
-                <img title="NumPy" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-                <img title="Pandas" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-                <img title="LangChain" height="25" src="https://avatars.githubusercontent.com/u/123881334?s=200&v=4">
-            </p>
-            <p><b>Backend & Frontend:</b></p>
-            <p>
-                <img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-                <img title="Express" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-                <img title="FastAPI" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-                <img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-                <img title="Next.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-                <img title="Tailwind CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-            </p>
-            <p><b>Databases & DevOps:</b></p>
-            <p>
-                <img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-                <img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-                <img title="Redis" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
-                <img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-            </p>
-        </div>
-    </td>
-</tr>
+<pre>
+<span style="color: #8AE234;"><b>kuroor@git-profile</b></span><span style="color: #729FCF;"><b>:~</span><span style="color: #FFFFFF;"><b>$</span> >> profile exp</b>
+<hr>
 
-<!-- Interests Section -->
-<tr>
-  <td valign="top" style="color: #2765c7; white-space: nowrap;"><samp>[kuroor@git-profile]:~$</samp></td>
-  <td><samp><b>profile --interests</b></samp>
-    <p>
-      🔄 <b>Transformers:</b> The architectural backbone of modern AI.<br>
-      🤖 <b>Machine Learning:</b> Building systems that learn from data to predict and decide.<br>
-      🧠 <b>Neural Networks:</b> Brain-inspired models that power deep learning.<br>
-      📜 <b>Large Language Models (LLMs):</b> The foundation for generative and agentic AI.
-    </p>
-  </td>
-</tr>
+🚀 <b>Agentic AI Intern</b> | Travancore Analytics
+   - Architected a multi-agent interview analysis system for 'Intervai', processing user conversations to generate actionable feedback.
+   - Leveraged LangGraph for state management and FastAPI to serve insights, achieving a 40% reduction in manual data review time and boosting feedback consistency.
 
-<!-- Exit Section -->
-<tr>
-  <td valign="top" style="color: #2765c7; white-space: nowrap;"><samp>[kuroor@git-profile]:~$</samp></td>
-  <td><samp><b>exit</b></samp>
-    <p># Terminating session...</p>
-    <p>Thank you for visiting! I'm passionate about pushing the boundaries of AI and am always open for collaboration. If you're interested in contributing to Nodular or have other exciting ideas, please reach out via email. Let's build the future together.</p>
-    <p>[process exited with code 0]</p>
-  </td>
-</tr>
-</table></div>
+</pre>
+
+<pre>
+<span style="color: #8AE234;"><b>kuroor@git-profile</b></span><span style="color: #729FCF;"><b>:~</span><span style="color: #FFFFFF;"><b>$</span> >> profile repo</b>
+<hr>
+
+### <b>1. Nodular: Parallelized LLMs</b>  🚧 BEING BUILT 🚧
+> What if you could run a massive language model... on a network of smaller machines? Nodular is an experimental framework to decentralize and parallelize LLM inference, transforming monolithic models into a swarm of cooperative, specialized agents.
+
+### <b>2. Intervai: AI-Powered Interview Prep</b>
+> An intelligent platform that conducts mock interviews and provides instant, deep-dive analysis on user responses. It uses an agentic system to assess everything from keyword usage to conceptual understanding, helping users pinpoint weaknesses and sharpen their skills.
+
+### <b>3. Photorch</b> 🛠️ UNDER CONSTRUCTION 🛠️
+> A tiny, readable autograd engine and training micro-framework built from scratch in Python. Designed as a teaching tool for understanding the core mechanics of deep learning for physics research and education.
+
+</pre>
+
+<pre>
+<span style="color: #8AE234;"><b>kuroor@git-profile</b></span><span style="color: #729FCF;"><b>:~</span><span style="color: #FFFFFF;"><b>$</span> >> profile tech</b>
+<hr>
+
+<b>// AI & Machine Learning</b>
+<code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img title="PyTorch" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
+<code><img title="TensorFlow" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
+<code><img title="NumPy" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
+<code><img title="Pandas" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
+<code><img title="Scikit-learn" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"></code>
+<code><img title="LangChain" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code> <b>// Backend & API Development</b>
+<code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img title="Express" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+<code><img title="FastAPI" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></code>
+<code><img title="Pydantic" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg"></code>
+
+<b>// Frontend & Web</b>
+<code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img title="TypeScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img title="Next.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
+<code><img title="Tailwind CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
+
+<b>// Databases & DevOps</b>
+<code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+<code><img title="Redis" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></code>
+<code><img title="SQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"></code>
+<code><img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+
+</pre>
+
+<pre>
+<span style="color: #8AE234;"><b>kuroor@git-profile</b></span><span style="color: #729FCF;"><b>:~</span><span style="color: #FFFFFF;"><b>$</span> >> profile fav</b>
+<hr>
+
+🤖 <b>Transformers:</b> The architecture powering modern LLMs, enabling deep contextual understanding of sequential data.
+🧠 <b>Machine Learning:</b> Building systems that learn from data to make predictions and decisions.
+🕸️ <b>Neural Networks:</b> Algorithms modeled after the human brain, forming the basis of deep learning.
+🗣️ <b>Agentic AI:</b> Creating autonomous AI agents that can reason, plan, and execute complex tasks to achieve goals.
+
+</pre>
+<pre>
+<span style="color: #8AE234;"><b>kuroor@git-profile</b></span><span style="color: #729FCF;"><b>:~</span><span style="color: #FFFFFF;"><b>$</span> >> profile final is_end=true</b>
+<hr>
+Thank you for visiting! I'm always open for collaboration and innovation.
+
+If you're interested in decentralized AI and want to contribute to <b>Nodular</b>, feel free to reach out via email. Let's build the future together.
+<span style="animation: blink-animation 1s steps(2, start) infinite;">_</span>
+<style>
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+</style>
+</pre>
