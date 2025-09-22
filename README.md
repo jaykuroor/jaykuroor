@@ -115,7 +115,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true&layout=donut)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=transparent&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykuroor&locale=en&theme=trasnparentk&show_icons=true&count_private=true&layout=donut)
 
 ![footer](https://github.com/jaykuroor/jaykuroor/blob/12e33dc40be7422dbfd0dcca79f424848418d950/main/footer_banner.gif)
