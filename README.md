@@ -27,14 +27,7 @@
 > [!NOTE]
 > :handshake: Hey, I'm **Jay**! I’m a *junior* at the **University of Wisconsin–Madison**, specializing in `Computer Science` and `Economics`. :shipit:
 
-> ㅤ
-> “It works on my machine.”
-> ㅤ
-
-ㅤㅤㅤㅤ*- Unknown*
-
-```bash
-
+```
 ┌▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄┐
 |   kuroor         • profile                                                            —   🗖   x   |
 └⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒┘
@@ -143,5 +136,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
+
+<p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
 
 ![footer](https://github.com/jaykuroor/jaykuroor/blob/12e33dc40be7422dbfd0dcca79f424848418d950/main/footer_banner.gif)
