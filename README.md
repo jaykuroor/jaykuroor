@@ -1,5 +1,5 @@
 > [!NOTE]
-> # :handshake: Hey, I'm **Jay**! I’m a *junior* at the **University of Wisconsin–Madison**, specializing in `Computer Science` and `Economics` :shipit:
+> ## :handshake: Hey, I'm **Jay**! I’m a *junior* at the **University of Wisconsin–Madison**, specializing in `Computer Science` and `Economics` :shipit:
 
 <p align="center">
   <img src="https://github.com/jaykuroor/jaykuroor/blob/8191dc1f7aed3bc905110886adaa0676be89dac2/main/banner.gif" alt="Banner" width="1200">
