@@ -32,7 +32,7 @@
 █  
 █  File    Edit    View    Search    Terminal    Help
 █                                                                            
-█  \[kuroor\@profile-git:\~\$] cat profile\_card    	$${\color{red}Red}$$  
+█  kuroor@profile-git ~ $ cat profile\_card    	$${\color{red}Red}$$  
 █                                                                           
 █   /*---------------------------------------------------------+
 █    | Name: Jay Kuroor                                        |
@@ -44,14 +44,14 @@
 █    | Motto: "Never stop learning"                            |
 █    +---------------------------------------------------------*/
 █                                                                           
-█  \[kuroor\@profile-git:\~\$] cat profile\_exp                             
+█  kuroor@profile-git ~ $ cat profile\_exp                             
 █                                                                           
 █   • Travancore Analytics – Agentic AI Intern                              
 █     → Built an **Intervai app**: did context-aware pipeline automation    
 █       with LangChain + FastAPI + Whisper achieving real-time transcript   
 █       analysis for interviews.                                            
 █                                                                           
-█  \[kuroor\@profile-git:\~\$] ls profile\_repo                             
+█  kuroor@profile-git ~ $ ls profile\_repo                             
 █                                                                           
 █   1) Nodular: Parallelized LLMs                                           
 █      → Building a **fast, node-based orchestration for LLMs** that hooks  
@@ -63,7 +63,7 @@
 █   3) Photorch: (UNDER CONSTRUCTION)                                       
 █      → Teaching-size micro-framework for autograd & physics ML research.  
 █                                                                           
-█  \[kuroor\@profile-git:\~\$] cat profile\_tech                            
+█  kuroor@profile-git ~ $ cat profile\_tech                            
 █                                                                           
 █   ╔══════════════════════════════════════════════════════════════════════╗
 █   ║  Languages:                                                          ║
@@ -85,14 +85,14 @@
 █   ║   SQL | MongoDB | PostgreSQL | Redis | Docker                        ║
 █   ╚══════════════════════════════════════════════════════════════════════╝
 █                                                                           
-█  \[kuroor\@profile-git:\~\$] cat profile\_fav                             
+█  kuroor@profile-git ~ $ cat profile\_fav                             
 █                                                                           
 █   → Transformers – Sequence models powering LLMs                          
 █   → Machine Learning – Systems that learn patterns from data              
 █   → Neural Networks – Foundations of deep learning                        
 █   → LLMs – Building the frontier of reasoning engines                     
 █                                                                           
-█  \[kuroor\@profile-git:\~\$] echo "profile\_final"                        
+█  kuroor@profile-git ~ $ echo "profile\_final"                        
 █                                                                           
 █   ╔══════════════════════════════════════════════════════════════════════╗
 █   ║  Thank you for visiting! Open to collaboration + innovation.         ║
