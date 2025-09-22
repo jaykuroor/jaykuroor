@@ -14,6 +14,14 @@ jay@host ~/demo $ ls
 profile profile.c
 
 jay@host ~/demo $ profile start
+[ INFO ] Initializing profile sequence...
+[ INFO ] Checking dependencies...
+[ DOWNLOAD ] Retrieving profile modules...
+[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% | 42.3 MB/42.3 MB | 12.3 MB/s | ETA 0s
+[ LOADING ] Finalizing launch...
+Progress: [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%
+Running new terminal..
+└────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```bash
