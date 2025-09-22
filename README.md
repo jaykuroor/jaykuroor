@@ -6,14 +6,11 @@
 ┌▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄┐
 |   host         • command terminal                                                     —   🗖   x   |
 └⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒┘
-█  jay@host ~/demo $ help
-█  Available commands:
-█    help, ls, cd, cat, echo, pwd, date, whoami, clear, history, exit
 █  
 █  jay@host ~/demo $ ls
 █  profile profile.c
-█  
-█  jay@host ~/demo $ profile start
+█ 
+█  jay@host ~/demo $ ./profile
 █  [ INFO ] Initializing profile sequence...
 █  [ INFO ] Checking dependencies...
 █  [ DOWNLOAD ] Retrieving profile modules...
@@ -21,8 +18,11 @@
 █  [ LOADING ] Finalizing launch...
 █  Progress: [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%
 █  Running new terminal..                                                                            |
+█                                                                                                    |
 └⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒┘
 ```
+[!INFO]
+🙌 Hey, I'm Jay! I’m a junior at the University of Wisconsin–Madison, specializing in Computer Science and Economics. 
 
 ```bash
 
@@ -99,7 +99,40 @@
 █   ║  Reach out if you’d like to join **Nodular** or other projects!      ║
 █   ╚══════════════════════════════════════════════════════════════════════╝
 █                                                                                                    |
+█                                                                                                    |
 └⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒⬒┘
 ```
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+
+### DevOps & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-2487D4?style=for-the-badge&logo=caddy&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-70D5ED?style=for-the-badge&logo=snakemake&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-00ADD8?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### Machine Learning & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6700?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Web & Application Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
 
 ![footer](https://github.com/jaykuroor/jaykuroor/blob/12e33dc40be7422dbfd0dcca79f424848418d950/main/footer_banner.gif)
