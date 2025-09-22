@@ -115,6 +115,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true" alt="jaykuroor" />
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ![footer](https://github.com/jaykuroor/jaykuroor/blob/12e33dc40be7422dbfd0dcca79f424848418d950/main/footer_banner.gif)
