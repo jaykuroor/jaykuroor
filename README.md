@@ -30,7 +30,8 @@
 > ㅤ
 > “It works on my machine.”
 > ㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤ*- Unknown*
+
+ㅤㅤㅤㅤ*- Unknown*
 
 ```bash
 
