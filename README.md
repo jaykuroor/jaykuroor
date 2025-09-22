@@ -1,4 +1,4 @@
-<p align="center">
+<p allign="center">
   <img src="https://github.com/jaykuroor/jaykuroor/blob/8191dc1f7aed3bc905110886adaa0676be89dac2/main/banner.gif" alt="Banner">
 </p>
 
