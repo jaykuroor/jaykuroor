@@ -115,28 +115,11 @@
 
 ---
 
-<picture>
-  <source
-    srcset="(https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaykuroor&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true&layout=donut"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykuroor&locale=en&show_icons=true&count_private=true&layout=donut"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykuroor&locale=en&show_icons=true&count_private=true&layout=donut" />
-</picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaykuroor&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykuroor&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 
 ![footer](https://github.com/jaykuroor/jaykuroor/blob/12e33dc40be7422dbfd0dcca79f424848418d950/main/footer_banner.gif)
