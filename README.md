@@ -124,19 +124,19 @@
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=jaykuroor&show_icons=true" />
+  <img height=200 align="center src="https://github-readme-stats.vercel.app/api?username=jaykuroor&show_icons=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true&layout=donut"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true&layout=donut"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykuroor&locale=en&show_icons=true&count_private=true&layout=donut"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykuroor&locale=en&show_icons=true&count_private=true&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykuroor&locale=en&show_icons=true&count_private=true&layout=donut" />
 </picture>
 
 ![footer](https://github.com/jaykuroor/jaykuroor/blob/12e33dc40be7422dbfd0dcca79f424848418d950/main/footer_banner.gif)
