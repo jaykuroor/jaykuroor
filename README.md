@@ -114,7 +114,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true&rank_icon=github&show=discussions_answered&hide=contribs" />
   </a>
