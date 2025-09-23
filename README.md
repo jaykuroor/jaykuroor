@@ -119,7 +119,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykuroor&locale=en&theme=dark&layout=compact&show_icons=true&count_private=true&langs_count=8&card_width=340&hide_border=true" />
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykuroor&locale=en&theme=dark&layout=compact&show_icons=true&count_private=true&langs_count=8&card_width=340&hide_border=true" />
   </a>
 </div>
 
