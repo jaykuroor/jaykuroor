@@ -116,10 +116,10 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaykuroor&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykuroor&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykuroor&locale=en&theme=dark&show_icons=true&count_private=true&langs_count=8" />
 </a>
 
 ![footer](https://github.com/jaykuroor/jaykuroor/blob/12e33dc40be7422dbfd0dcca79f424848418d950/main/footer_banner.gif)
