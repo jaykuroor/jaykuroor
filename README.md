@@ -115,7 +115,28 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=transparent&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykuroor&locale=en&theme=transparentk&show_icons=true&count_private=true&layout=donut)
+<picture>
+  <source
+    srcset="(https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=transparent&show_icons=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=transparent&show_icons=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykuroor&locale=en&theme=transparentk&show_icons=true&count_private=true&layout=donut"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ![footer](https://github.com/jaykuroor/jaykuroor/blob/12e33dc40be7422dbfd0dcca79f424848418d950/main/footer_banner.gif)
