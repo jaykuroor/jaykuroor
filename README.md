@@ -116,10 +116,10 @@
 ---
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true&rank_icon=github&show=discussions_answered&hide=contribs" />
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=jaykuroor&locale=en&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true&rank_icon=github&show=discussions_answered&hide=contribs" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykuroor&locale=en&theme=chartreuse-dark&layout=donut&show_icons=true&count_private=true&langs_count=8&card_width=340&hide_border=true&text-bold=true&stats_format=bytes" />
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykuroor&locale=en&theme=chartreuse-dark&layout=donut&show_icons=true&count_private=true&langs_count=8&card_width=340&hide_border=true&text-bold=true&stats_format=bytes" />
   </a>
 </div>
 
